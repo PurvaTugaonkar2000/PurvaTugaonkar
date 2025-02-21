@@ -1,5 +1,5 @@
 # PurvaTugaonkar
-<h1 align="center">👋 Hey there! I'm <span style="color:#6C63FF;">[Your Name]</span></h1>
+<h1 align="center">👋 Hey there! I'm <span style="color:#6C63FF;">Purva</span></h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
