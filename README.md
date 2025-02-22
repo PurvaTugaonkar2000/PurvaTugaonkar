@@ -13,15 +13,7 @@
 - Passionate about leveraging modern tech—from Java and Python to cloud solutions—for innovative, efficiency-driven projects. 
 - If you're looking to develop or collaborate on impactful, low-level projects, hit me up and let's make something cool. 
 - I'm on the lookout for summer intern 2025 software engineering opportunities in the US.
-
----
-
-## 🖥️ My Workspace:
-
-<p align="center">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/032/179/882/original/raphael-lubke-developer.gif?1606055011" alt="Developer at work" width="80%" />
-</p>
-
+- 
 ---
 
 ## 🚀 Languages and Tools:
