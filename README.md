@@ -15,11 +15,11 @@
 
 ## ✨ About Me:
 
-- 👋 Hi, I'm **[Your Name]**
-- 👀 I'm interested in **Web Development, AI-ML, Cloud Computing, and Open Source.**
+- 👋 Hi, I'm **Purva Govind Tugaonkar**
+- 👀 I'm interested in **Software Development, Web Development, AI-ML, Cloud Computing.**
 - 🌱 Currently learning **MERN Stack** and improving my **Data Structures & Algorithms**.
 - 💞️ Looking to collaborate on **web development** and **machine learning** projects.
-- 📫 Reach me at: **[Your Email]**
+- 📫 Reach me at: **purvatugaonkar2000@gmail.com**
 
 ---
 
