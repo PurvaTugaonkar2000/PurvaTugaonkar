@@ -1,12 +1,5 @@
 # PurvaTugaonkar
 <h1 align="center">👋 Hey there! I'm <span style="color:#6C63FF;">Purva</span></h1>
-
-<p align="center">
-  <a href="[https://www.linkedin.com/in/purva-tugaonkar/]" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=6C63FF&style=flat-square" alt="Profile Views" />
 </p>
