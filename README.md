@@ -15,11 +15,11 @@
 
 ## ✨ About Me:
 
--- Based in the Bay Area, I'm a CS grad student at San José State University, actively diving into cutting-edge software projects. 
--- I bring hands-on experience from roles at Goldman Sachs and Apexon, where I built scalable microservices and full-stack applications that streamlined operations. 
--- Passionate about leveraging modern tech—from Java and Python to cloud solutions—for innovative, efficiency-driven projects. 
--- If you're looking to develop or collaborate on impactful, low-level projects, hit me up and let's make something cool. 
--- I'm on the lookout for summer intern 2025 software engineering opportunities in the US.
+- Based in the Bay Area, I'm a CS grad student at San José State University, actively diving into cutting-edge software projects. 
+- I bring hands-on experience from roles at Goldman Sachs and Apexon, where I built scalable microservices and full-stack applications that streamlined operations. 
+- Passionate about leveraging modern tech—from Java and Python to cloud solutions—for innovative, efficiency-driven projects. 
+- If you're looking to develop or collaborate on impactful, low-level projects, hit me up and let's make something cool. 
+- I'm on the lookout for summer intern 2025 software engineering opportunities in the US.
 
 ---
 
