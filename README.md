@@ -2,11 +2,8 @@
 <h1 align="center">👋 Hey there! I'm <span style="color:#6C63FF;">Purva</span></h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/purva-tugaonkar/)" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
