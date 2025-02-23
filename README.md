@@ -1,8 +1,8 @@
 # PurvaTugaonkar
 <h1 align="center">👋 Hey there! I'm <span style="color:#6C63FF;">Purva</span></h1>
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=6C63FF&style=flat-square" alt="Profile Views" />
-</p>
+</p> -->
 
 ---
 
